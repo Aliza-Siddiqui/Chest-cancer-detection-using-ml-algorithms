@@ -43,9 +43,6 @@ print("7. Run All Algorithms")
 choice = input("Enter the number to select the algorithm: ")
 ```
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - Google Colab for providing an excellent platform for execution.
 - OpenCV and scikit-learn for their powerful libraries.
